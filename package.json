@@ -1,9 +1,11 @@
 {
   "name": "local-server",
   "main": "./lib/local-server",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Create local server for testing project.",
-  "activationEvents": ["local-server:start"],
+  "activationEvents": [
+    "local-server:start"
+  ],
   "repository": "https://github.com/lohek/local-server",
   "license": "MIT",
   "engines": {
