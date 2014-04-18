@@ -1,0 +1,11 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Local Server'
+      'submenu': [
+        { 'label': 'Start', 'command': 'local-server:start' }
+      ]
+    ]
+  }
+]
