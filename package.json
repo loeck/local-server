@@ -2,9 +2,9 @@
   "name": "local-server",
   "main": "./lib/local-server",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Create local server for testing project.",
   "activationEvents": ["local-server:start"],
-  "repository": "https://github.com/atom/local-server",
+  "repository": "https://github.com/lohek/local-server",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
